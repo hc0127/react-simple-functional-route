@@ -4,7 +4,7 @@ import {
   MDBBtn
 } from "mdb-react-ui-kit";
 
-export default function Jersey(props) {
+export default function Medicine(props) {
 
   useEffect(() => {
   }, []);

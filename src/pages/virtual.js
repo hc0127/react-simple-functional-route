@@ -4,7 +4,7 @@ import {
   MDBBtn
 } from "mdb-react-ui-kit";
 
-export default function Second(props) {
+export default function Virtual(props) {
 
   useEffect(() => {
   }, []);
